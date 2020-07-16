@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VK", "VK\VK.csproj", "{78AEC2A5-4A48-44AD-8B81-603F7456F5CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpFramework", "SharpFramework\SharpFramework.csproj", "{78AEC2A5-4A48-44AD-8B81-603F7456F5CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
