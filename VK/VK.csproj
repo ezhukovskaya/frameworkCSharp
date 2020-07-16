@@ -23,4 +23,14 @@
       </None>
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Application\Constants\Account" />
+      <Folder Include="Application\Constants\Locators" />
+      <Folder Include="Application\Constants\Methods" />
+      <Folder Include="Application\PageObject\Forms" />
+      <Folder Include="Application\PageObject\Pages" />
+      <Folder Include="Tests\Steps" />
+      <Folder Include="Tests\TestCases" />
+    </ItemGroup>
+
 </Project>
